@@ -1,7 +1,7 @@
 <script setup>
-import RFC from "./views/RFC.vue"
+import SlotFC from "./views/slot/SlotFC.vue";
 </script>
 
 <template>
-    <RFC />
+    <SlotFC />
 </template>
