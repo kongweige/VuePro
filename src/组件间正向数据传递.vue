@@ -1,7 +1,7 @@
 <script setup>
-import RFC from "./views/RFC.vue"
+import FC from './views/FC.vue';
 </script>
 
 <template>
-    <RFC />
+    <FC />
 </template>
